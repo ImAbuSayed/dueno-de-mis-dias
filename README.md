@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-mis-dias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dueño de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mis-dias/) |
+| **Get License** | [Official Music Licensing for Dueño de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mis-dias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, te vi brillar en medio de la oscuridad
+> Ese vestido negro me quitó la voluntad
+> Te quiero para mí, no necesito a nadie más
+> Me tienes loco, mami, mira cómo te me vas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
