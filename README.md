@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-mis-dias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dueño de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mis-dias/) |
+| **Get License** | [Obtain a Music License for Dueño de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mis-dias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c4d98a26ddee237a4a310d345445ace8fe7f12bd933a2749c26f968f500cd95a` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

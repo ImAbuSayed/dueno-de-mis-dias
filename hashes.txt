@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dueño de mis días
+
+This log tracks the cryptographic history and versioning for the song **Dueño de mis días** (dueno-de-mis-dias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:55:43.501018 | `v1` | `c4d98a26ddee237a4a310d345445ace8fe7f12bd933a2749c26f968f500cd95a` | `193fe565af5b79abe9ec7439b5747e4907ae3880b1e6700888258fc1ed120ffc` | `2026-06-24_dueno-de-mis-dias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
